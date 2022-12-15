@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alicia@congw729
 - I’m interested in machine learning, [counterfactual explanations in explainable AI](https://sites.google.com/view/kdd-2021-counterfactual) and [diffusion models](https://github.com/congw729/congw729_log/blob/main/DiffusionModels/readme.md) in text to image/video generation.
-- I’m currently learning diffusion models, and reviewing the basic knowledge of 🍉Watermelon Book.
+- I’m currently learning diffusion models, and reviewing the basic knowledge of 🍉Watermelon Book. Check my updates on this repo:  [Link](https://github.com/congw729/congw729_log/)
 - 💞️ I’m looking to collaborate on generation tasks using diffusion models!
 - 📫 How to reach me: cwangca[at]connect.ust.hk
 
