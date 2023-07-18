@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alicia@congw729
+- The latest updates on [MindSpore - StableDiffusionv2](https://github.com/mindspore-lab/mindone/tree/master/examples/stable_diffusion_v2) 🔥
 - I’m interested in machine learning, [counterfactual explanations in explainable AI](https://sites.google.com/view/kdd-2021-counterfactual) and [diffusion models](https://github.com/congw729/congw729_log/blob/main/DiffusionModels/readme.md) in text to image/video generation.
 - I’m currently learning diffusion models, reviewing the basic knowledge of 🍉Watermelon Book and keeping track on SOTA models/algorithms. Check my updates on this repo:  [Link](https://github.com/congw729/congw729_log/)
 - 💞️ I’m looking to collaborate on any tasks using diffusion models (by MindSpore)!
